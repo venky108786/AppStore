@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.main-background {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #000000;
+  font-family: Bree Serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+.input-container {
+  border: 1px solid #7b8794;
+  background-color: transparent;
+  padding-left: 10px;
+  display: flex;
+  flex-direction: row;
+}
